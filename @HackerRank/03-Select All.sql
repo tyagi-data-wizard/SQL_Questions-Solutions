@@ -6,3 +6,5 @@
 --SOLUTION : 
 
 select * from CITY;
+
+
